@@ -1,0 +1,1 @@
+Une simple Application developpé en utilisant Spring boot, spring data, Jpa, maven, Jdk1.8, spring MVC, afin de se familiariser avec le framework spring data 
